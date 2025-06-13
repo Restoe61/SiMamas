@@ -12,3 +12,8 @@ SistemPelayanan::~SistemPelayanan() {
     simpanLastID();
 }
 
+    void bacaLastID();
+    void simpanLastID();
+    void bacaKeluhanSaran();
+    void bacaRiwayat();
+    void simpanRiwayat();
